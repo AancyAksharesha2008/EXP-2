@@ -49,10 +49,32 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+
+|S.NO|VOLTAGE(V)|CURRENT(A)|
+ |:-----:|:-----:|:------------:|
+ |1|0|0|
+ |2|115|0.16|
+ |3|120|0.18|
+ |4|126|0.20|
+ |5|129|0.21|
+ |6|133|0.23|
+
+ 
 Tabulation for Load Test:
 
+
+ |S.NO|CURRENT(A)|VOLTAGE(V)|
+ |:-----:|:-----:|:------------:|
+ |1|1.2|220|
+ |2|2.8|212|
+ |3|3.2|208|
+ |4|3.6|205|
+ |5|5.5|200|
+ |6|7|195|
+ 
+
 Model graph:
-Calculation: 
+
 
 Open circuit characteristics
 
